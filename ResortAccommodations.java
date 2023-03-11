@@ -1,10 +1,5 @@
-package edu.gsu.csc1301.resortaccommodations;
-import java.util.Scanner;
 
-/**
- * @author nethmeeperera
- * @version 10/26/2021
- */
+import java.util.Scanner;
 
 public class ResortAccommodations {
 
