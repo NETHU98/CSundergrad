@@ -4,10 +4,6 @@ import java.util.Random;
 // import the scanner
 import java.util.Scanner;
 
-/**
- * @author Nethmee Perera Dawatage
- * @version 06/30/2022
- */
 
 public class YourLastNameTest1C {
 
