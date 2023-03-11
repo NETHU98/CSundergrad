@@ -1,10 +1,6 @@
-package edu.gsu.csc1301.gradeaverage;
+
 import java.util.Scanner;
 
-/**
- * @author nethmeeperera
- * @version 10/15/2021
- */
 
 public class GradeAverage {
 
