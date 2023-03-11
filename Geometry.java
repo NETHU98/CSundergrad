@@ -1,11 +1,7 @@
-package edu.gsu.csc1301.geometry;
+
 
 import java.util.Scanner;
 
-/**
- * @author nethmeeperera
- * @version 11/02/2021
- */
 public class Geometry {
 
 
