@@ -1,4 +1,4 @@
-package edu.gsu.csc1301.lotterygame;
+
 
 import java.util.Random;
 import java.util.Scanner;
@@ -6,11 +6,6 @@ import java.util.List;
 import java.util.ArrayList;
 
 
-
-/**
- * @author nethmeeperera
- * @version 11/29/2021
- */
 public class LotteryGame {
     static final int NUM_DIGITS = 5;
     public static void greetUser()
